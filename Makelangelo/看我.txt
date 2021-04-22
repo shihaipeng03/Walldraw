@@ -1,0 +1,5 @@
+Makelangelo 也是一个开源arduino墙画机项目。 这个软件可以制作gcode，但是不能直接控制本店的墙画机。  如果有兴趣可以开发，本店收购程序。
+
+需要java环境才能正常运行。
+
+http://www.makelangelo.com  更多资料可以到官网学习。

@@ -1,0 +1,8 @@
+https://www.instructables.com/id/Polargraph-Drawing-Machine/
+一套完整的设计介绍，由Processing提供绘图路径的方案。
+https://github.com/euphy/polargraph/wiki
+程序链接
+https://www.geek-workshop.com/thread-13243-1-1.html
+中文翻译版
+
+

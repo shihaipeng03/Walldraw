@@ -1,0 +1,6 @@
+将libraries下的文件夹，复制到  我的文档->Arduino->libraries内 （   C:\Users\pc\Documents\Arduino\libraries ）
+否则编译程序会报错。
+
+也可以通过Arduino IDE的 库管理器 （Ctrl+Shit+I ）功能，直接从官网下载。
+
+如果不会玩，可以到 https://create.arduino.cc/editor/wjd76/f6e291a3-1061-4218-b583-fa0fd5550cfb/preview 用web版编译器编译
