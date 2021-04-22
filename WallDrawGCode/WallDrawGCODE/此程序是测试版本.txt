@@ -1,0 +1,2 @@
+此程序是测试版本，仅供学习参考。 
+最新应用版本请用xload刷WallDrawGCode.v**.hex的BIN文件。 
